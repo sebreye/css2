@@ -1,18 +1,6 @@
-.lorem{
-    text-align: center;
-}
-.images1{
-    display: flex;
-    float: left;
-}
-.images2{
-    display: flex;
-    float: right;
-}
-.images3{
-    display: flex;
-    float: left;
-}
-.section{
-    margin-top: 40px;
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    gap: 10px;
+    padding: 10px;
 }
