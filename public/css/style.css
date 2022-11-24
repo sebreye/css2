@@ -1,0 +1,18 @@
+.lorem{
+    text-align: center;
+}
+.images1{
+    display: flex;
+    float: left;
+}
+.images2{
+    display: flex;
+    float: right;
+}
+.images3{
+    display: flex;
+    float: left;
+}
+.section{
+    margin-top: 40px;
+}
